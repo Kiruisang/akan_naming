@@ -33,3 +33,7 @@
 .input{
     background-color: lightyellow;
 }
+#submit {
+    color: rgb(248, 233, 15);
+    background-color: saddlebrown;
+}
