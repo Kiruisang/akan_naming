@@ -41,3 +41,7 @@
     background-color: saddlebrown;
     color: rgb(248, 233, 15);
 }
+#display-name {
+    color: black;
+    font-style: italic;
+}
