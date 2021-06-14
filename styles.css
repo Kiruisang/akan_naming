@@ -1,6 +1,27 @@
+*{
+    background-color: honeydew;
+    font-family: sans-serif;
+}
 .header {
+    text-align: center;
     color: black;
     text-emphasis-color: black;
     font-size: 34px;
     text-shadow: black 3px 3px 5px;
 }
+.body{
+    display: inline-block;
+    width: 100%;
+}
+.title{
+    width: 100%;
+}
+.intro{
+    width: 100%;
+}
+.image {
+    width: 100%;
+}
+/*.title {
+    background-color: darkslategray;
+}*/
