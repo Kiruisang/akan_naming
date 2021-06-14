@@ -18,6 +18,7 @@
 }
 .intro{
     width: 100%;
+    line-height: 1.5em;
 }
 .image {
     width: 100%;
@@ -25,3 +26,10 @@
 /*.title {
     background-color: darkslategray;
 }*/
+#fillin {
+    background-color: indianred;
+    margin: auto;
+}
+.input{
+    background-color: lightyellow;
+}
